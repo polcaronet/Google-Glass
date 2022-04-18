@@ -2,7 +2,7 @@
 
 Esse foi um projeto onde eu aprendi a fazer um site!
 
-Meu site: https://polcaronet.github.io/google-glass/
+Meu site: https://polcaronet.github.io/Google-Glass/
 
 Acessem o canal dele: https://www.cursoemvideo.com/
 
