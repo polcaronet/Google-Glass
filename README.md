@@ -1,2 +1,3 @@
-# github.io
-Criação do site Google Glass
+# site-google-glass
+
+Esse foi um projeto onde aprendi a fazer um site!
